@@ -1,0 +1,16 @@
+current directory: /Users/takairasatoru/rails_app/photo-app/vendor/bundle/gems/racc-1.5.2/ext/racc/cparse
+/Users/takairasatoru/.rbenv/versions/2.6.6/bin/ruby -I /Users/takairasatoru/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20211017-39770-oqkl0d.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/takairasatoru/rails_app/photo-app/vendor/bundle/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/takairasatoru/rails_app/photo-app/vendor/bundle/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/takairasatoru/rails_app/photo-app/vendor/bundle/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20211017-39770-bb7u04/racc
